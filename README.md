@@ -1,4 +1,4 @@
-NotesSharing_webApp_NM_FullStackPDjango_Project
+#NotesSharing_webApp_NM_FullStackPDjango_Project
 
 Project Developed by: Thirupathi Aswini
 
